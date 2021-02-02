@@ -1,0 +1,17 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "description": "Pulse Network",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "leofishman",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "3.3.0"
+  }
+}
